@@ -1,0 +1,14 @@
+layout_spectrum: 0.10584104876033962
+typography_spectrum: 0.3465712748002261
+color:
+  brandStrength: 0.4629653077572584
+  lightness: 0.11378353671170771
+  saturation: 0.392027931753546
+  rhythmicContrast: 0.035600417759269476
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: Swiss pulse
