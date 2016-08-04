@@ -11,6 +11,8 @@ color:
     - '#6B574B'
     - '#160600'
 layout_spectrum: 0.10584104876033962
+analytics:
+  google: UA-3523442-16
 name: Swiss pulse
 title: Swiss Pulse
 description: News and views from the Swiss Confederation
